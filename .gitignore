@@ -1,4 +1,4 @@
 .vscode/
-/backend_rails/tmp
-/backend_rails/log
-/backend_rails/.idea
+backend_rails\tmp
+backend_rails\log
+backend_rails\.idea

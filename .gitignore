@@ -1,1 +1,3 @@
 .vscode/
+backend_rails/tmp
+backend_rails/log

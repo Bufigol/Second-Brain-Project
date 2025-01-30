@@ -1,0 +1,9 @@
+user_one:
+  username: "fixtureuser1"
+  email: "fixture1@example.com"
+  password: <%= BCrypt::Password.create('password1') %>
+
+user_two:
+  username: "fixtureuser2"
+  email: "fixture2@example.com"
+  password: <%= BCrypt::Password.create('password2') %>
